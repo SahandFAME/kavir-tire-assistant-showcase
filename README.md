@@ -13,3 +13,10 @@ Windows assistant for tyre availability monitoring and checkout preparation. Fin
 
 The assistant prepares checkout and opens the bank payment page.
 Final bank payment remains manual.
+## Application interface
+
+### Tyre-size preferences
+![Tyre-size selection](./screenshot%201.png)
+
+### Main menu
+![Assistant main menu](./screenshot%202.png)
